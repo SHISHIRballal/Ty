@@ -1,4 +1,4 @@
-const { WINNING_COMBINATIONS } = require("./WINNING_COMBINATIONS");
+import { WINNING_COMBINATIONS } from "./WINNING_COMBINATIONS";
 
 const X_CLASS = 'x';
 const CIRCLE_CLASS = 'circle';
